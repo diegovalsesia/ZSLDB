@@ -1,3 +1,5 @@
+![](logo.jpeg)
+
 # Zero-shot Lidar DeBlur (ZSLDB)
 
 This repository contains the code for the paper A. Montanaro, D. Valsesia - "A novel method and dataset for depth-guided image deblurring from smartphone Lidar", ICIP 2025.
